@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @serg
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning to build machine learning models
+- 👀 I’m data scientist
+- 🌱 I’m analyzing data, building machine learning models and extracting usefull insights
 - 💞️ I’m looking to collaborate on data science projects
-- 📫 How to reach me : email
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- 📫 How to reach me : https://www.linkedin.com/in/serhiy-zayets-b765bb2aa/
 
 <!---
 szayets/szayets is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
